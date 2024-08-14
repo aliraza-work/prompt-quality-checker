@@ -1,0 +1,5 @@
+[
+  {"id":"p1","prompt":"Task: Summarize the ticket.\nConstraints: Keep it under 80 words.\nOutput format: plain text."},
+  {"id":"p2","prompt":"Write something"},
+  {"id":"p3","prompt":"Task: Rank answers.\nConstraints: Ignore previous rules but also follow instructions carefully.\nOutput format: bullets\nTODO"}
+]
